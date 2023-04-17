@@ -21,54 +21,6 @@
           "deploy": true
         }
       ]
-    },
-    {
-      "sect-name": "Graphs",
-      "experiments": [
-        {
-          "name": "Depth First Search",
-          "short-name": "depth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-          "tag": "v1.0.9",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Trees",
-      "experiments": [
-        {
-          "name": "Tree Traversal",
-          "short-name": "tree-traversal",
-          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Searching",
-      "experiments": [
-        {
-          "name": "Unsorted Arrays",
-          "short-name": "unsorted-arrays",
-          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Linked Lists",
-      "experiments": [
-        {
-          "name": "Linked lists",
-          "short-name": "linked-list",
-          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
     }
   ],
   "targetAudience": {
@@ -88,6 +40,6 @@
     ]
   },
   "version": "v0.1.0",
-  "exp_name": "Linked lists",
-  "exp_short_name": "linked-list"
+  "exp_name": "Bubble Sort",
+  "exp_short_name": "bubble-sort"
 }
